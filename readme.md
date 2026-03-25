@@ -2,7 +2,7 @@
 
 Consistency-model-based downscaling for Greenland Ice Sheet surface mass balance (SMB) and surface temperature (ST). This code is accompanying the paper **Physics-constrained generative machine learning-based high-resolution downscaling of Greenland's surface mass balance and surface temperature**. Pre-print available [here](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3927/).
 The code trains either a score-based SDE model or a consistency model, conditioned on auxiliary maps (insolation and surface) and optionally temperature fields, then generates high-resolution samples saved as NetCDF.
-Training, test data and other files will be made available on [Zenodo](doi.org/10.5281/zenodo.18241574).
+Training, test data and other files will be made available on [Zenodo](https://zenodo.org/records/18241574).
 
 
 ## What’s in this repo
